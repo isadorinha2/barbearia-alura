@@ -1,4 +1,4 @@
-body {
+.principal {
     background: color #c075d3;
 }
     
@@ -19,4 +19,14 @@ h1 {
     width: 100%;
  }
 
+.beneficios-titulo {
+    text-align: center;
+}
 
+.itens {
+   font-style: italic;
+}
+
+.beneficios {
+   background: #white;
+}
