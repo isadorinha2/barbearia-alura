@@ -28,8 +28,25 @@ h1 {
 }
 
 .beneficios {
-   background: #white;
+   background: white;
 }
+<<<<<<< HEAD
+
+ul {
+   display: inline-block;
+   width: 20%;
+   vertical-align: top;
+   margin-right: 15%;
+}
+
+.beneficios-imagem {
+   width: 50%;
+}
+
+.titulo {
+   padding-left: 20px;
+}
+=======
 
 ul {
    display: inline-block;
@@ -45,3 +62,4 @@ ul {
 .titulo {
    padding-left: 20px;
 }
+>>>>>>> cd43687bf8c45d513d221213959f0ccc95da1b20
